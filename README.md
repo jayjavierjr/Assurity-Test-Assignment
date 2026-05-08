@@ -22,9 +22,10 @@ The user executing this test suite is expected to have the following installed o
 
 - **Configure JMeter Path**:
   - Open `LoadTestRunner.bat` using Notepad or any text editor
-    - Change `C:\apache-jmeter-5.6.3\bin` to your local JMeter `bin` directory
+    - Change `C:\apache-jmeter-X.X\bin` to your local JMeter `bin` directory
     - Change `C:\Temp\TestAssignment` to the location where the repository was cloned.
-    - <img width="70%" height="70%" alt="image" src="https://github.com/user-attachments/assets/fd1cd0a2-5bec-4c8b-ba2b-45c4f219cbad" />
+    - <img width="70%" height="70%" alt="image" src="https://github.com/user-attachments/assets/fcd51081-0d33-4f15-839c-a260329f9842" />
+
 
 _For any test configuration question, feel free to reach to the Applicant - Jay Javier Jr_
 
@@ -37,8 +38,9 @@ _For any test configuration question, feel free to reach to the Applicant - Jay 
     - Number of Threads (VUsers)
     - Ramp-up Time
     - Test Duration
-    - Throughput Target
-    - <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/39651ed1-4ed3-4dcd-add4-4f291ad91f7f" />
+    - Throughput Target    
+    - <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/adc88348-b126-40ce-9ddc-bc7b7378d22b" />
+
 
 - **Run the Test**:
   - Double-click `LoadTestRunner.bat` or execute it via `Command Prompt`.
