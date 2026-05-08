@@ -1,8 +1,8 @@
 @echo off
 
-cd C:\apache-jmeter-5.6.3\bin
+cd C:\apache-jmeter-5.5\bin
 
-set BASEDIR=C:\Temp\TestAssignment
+set BASEDIR=C:\temp\TestAssignment\Assurity-Test-Assignment
 
 rmdir /s /q "%BASEDIR%\results\HTMLReport"
 
