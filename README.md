@@ -36,9 +36,9 @@ _For any test configuration question, feel free to reach to the Applicant - Jay 
 - **Update Test Configuration**:
   - Edit `LoadTestRunner.bat` and update the following configuration values as needed
     - Number of Threads (VUsers)
-    - Ramp-up Time
-    - Test Duration
-    - Throughput Target    
+    - Ramp-up Time (Seconds)
+    - Test Duration (Seconds)
+    - Throughput Target (Samples/minute)
     - <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/adc88348-b126-40ce-9ddc-bc7b7378d22b" />
 
 
